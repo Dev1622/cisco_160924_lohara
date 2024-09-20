@@ -12,7 +12,7 @@ def patient_delete(patient):
     try:
         patients.remove(patient)
     except ValueError as err:
-        print('No such salary')
+        print('No such patient')
    # return salaries.remove(salary)
 
 

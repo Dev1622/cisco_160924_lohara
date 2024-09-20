@@ -1,0 +1,49 @@
+github
+github rep 
+PAT 
+git clone with token
+local repo
+
+1.update local repo 
+terminal:
+   $ git add . | git commit -m "Intro to Py"
+   to check:
+        $ git status
+    
+vsc:
+    source control
+        -> changes section
+            -> <+>
+        commit message + <commit>
+2. update local repo to remote repo [sync] 
+    pull + push
+terminal:
+    $git pull origin main | git push origin main
+vsc:
+    <sync> and confirmation
+
+2.
+
+Python 
+      types 
+      identidiers
+           variable function class module package
+           object attributes 
+        input()
+        print()
+
+
+        str
+        list
+        tuple
+
+
+        flow control
+            if
+            if ... else
+            if ... elif .... else
+            for i in range(start[,end[,step]])
+
+            
+
+            

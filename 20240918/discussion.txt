@@ -1,0 +1,31 @@
+
+functions 
+
+   to define
+to definfe args
+to return values
+
+-keyword arg
+-default value args / optional org
+
+-overloadable using default value args
+-use type hints
+
+-passing arg of diff type
+  - primitive type
+    pass by value
+  - reference type
+    pass by reference
+     -tuple
+     -list
+     -set
+     -dictionary
+     -frozenset
+     -bytearray
+     -object/instance
+
+- return muliple values
+    using tuple packing
+
+-variable args                *arg_name = tuple
+-variable named arguments     **arg_name = dict
