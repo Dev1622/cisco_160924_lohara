@@ -1,4 +1,4 @@
-1] main.py-
+1 main.py-
 This file acts as the main entry point for the library system. It handles user interactions, allowing them to add books, find books, display books, update book information, borrow books, send emails, and calculate the total stock of books.
 
 
